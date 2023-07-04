@@ -1,6 +1,3 @@
-# Data analysis Hands on
-
-Welcome to the repository of the Data Analysis session hands-on for the [MaNiTou school 2022](https://indico.in2p3.fr/event/25990/timetable/#20220707). This repository hosts the Notebooks on which we will work together. All the notebooks contain an introduction part and some challenges that you can face with the commands learnt in the introduction part. 
 
 
 # Running the tutorials
