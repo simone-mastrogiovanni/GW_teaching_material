@@ -10,18 +10,18 @@
 
 If you want to run the tutorials on your local computer you will need to install the required python packages. We suggest to follow the steps below
 
-* Download and install with conda the igwn-py38 environment from [this page](https://computing.docs.ligo.org/conda/environments/igwn-py38/).
+* Download and install with conda the igwn-py38 environment from [this page](https://computing.docs.ligo.org/conda/environments/igwn-py310/).
 
 * Activate the conda environment with 
 
 ```
-conda activate igwn-py38
+conda activate igwn-py310
 ```
 
 * Clone this repository with 
 
 ```
-git clone https://github.com/simone-mastrogiovanni/MaNiTou2022.git
+https://github.com/simone-mastrogiovanni/GW_teaching_material.git
 ```
 
 * You are ready to go!
